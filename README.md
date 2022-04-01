@@ -9,9 +9,8 @@ what to do when using my code
 |Do not reproduce this code and claiming that you made it
 Do not ask for emoji support
 Do not sell the code
-Do not use it for bad purposes | Give credits in a way people can notice 
-If you want donate me nitro|
-| | |
+Do not use it for bad purposes | Give credits in a way people can notice |
+| | If you want donate me nitro |
 
 How to use my code 
 
