@@ -1,5 +1,3 @@
-![](https://images-ext-1.discordapp.net/external/0Ac3DQAV_GKBjx1iGL8z1DX56S5G9RJk-80F06Oc8YU/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/957196693298896906/6d4863ea4d00e775d4ba3d35d2ad3211.png?width=421&height=421)
-
 Nova is an advanced discord multipurpose bot
 this bot is meant to be used to inspire other developers
 what to do when using my code
