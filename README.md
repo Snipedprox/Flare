@@ -1,6 +1,3 @@
-![](https://img.shields.io/github/release-date/Snipedprox/Nova)
-
-
 Nova is an advanced discord multipurpose bot
 this bot is meant to be used to inspire other developers
 what to do when using my code
