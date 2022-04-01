@@ -2,19 +2,19 @@ Nova is an advanced discord multipurpose bot
 this bot is meant to be used to inspire other developers
 what to do when using my code
 
-``
+```
 🔹 Do not reproduce this code and claiming that you made it
 🔹 Give credits in a way people can notice
 🔹 Do not ask for emoji support
 🔹 Do not sell the code
-🔹 Do not use it for bad purposes``
+🔹 Do not use it for bad purposes```
 
 **How to run this code**
-``js
+```
 🔹 Go to your config.js and add your token
 🔹 Then click on the button that will boot up the bot
 🔹 Use the latest version of aoi.js
-🔹 Enjoy!``
+🔹 Enjoy!```
 
 Why do i want my credits
 I don't like it when people make mass copies of my bot and claim that they made it. I did not add credits in its code so i ask for you to add the credits in a way i and the people can notice
