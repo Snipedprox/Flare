@@ -56,3 +56,5 @@ I might update it when version 6.0.0 comes along
 
 |[Support server](https://discord.gg/AyCWGr4zj6)|[Original bot](https://discord.com/api/oauth2/authorize?client_id=957196693298896906&permissions=1479549643895&scope=bot%20applications.commands)
 |---|---|
+
+![](https://media.discordapp.net/attachments/956657231070392322/959532168537854092/Nova2.png)
