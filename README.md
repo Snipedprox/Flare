@@ -4,15 +4,22 @@ what to do when using my code
 
 
 `🔹 Do not reproduce this code and claiming that you made it`
+
 `🔹 Give credits in a way people can notice`
+
 `🔹 Do not ask for emoji support`
+
 `🔹 Do not sell the code`
+
 `🔹 Do not use it for bad purposes`
 
 
 `🔹 Go to your config.js and add your token`
+
 `🔹 Then click on the button that will boot up the bot`
+
 `🔹 Use the latest version of aoi.js`
+
 `🔹 Enjoy!`
 
 Why do i want my credits
