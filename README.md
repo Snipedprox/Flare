@@ -2,7 +2,7 @@ Nova is an advanced discord multipurpose bot
 this bot is meant to be used to inspire other developers
 what to do when using my code
 
-
+```
 🔹 Do not reproduce this code and claiming that you made it
 
 🔹 Give credits in a way people can notice
@@ -12,13 +12,18 @@ what to do when using my code
 🔹 Do not sell the code
 
 🔹 Do not use it for bad purposes
+```
 
+How to use my code 
+
+```
 
 🔹 Go to your config.js and add your token
 
 🔹 Then click on the button that will boot up the bot
 
 🔹 Use the latest version of aoi.js
+```
 
 🔹 Enjoy!
 
