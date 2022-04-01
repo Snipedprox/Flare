@@ -5,14 +5,23 @@ this bot is meant to be used to inspire other developers
 what to do when using my code
 
 | ❌ Not allowed | ✅ Allowed |
-| --- | ----------- |
-|Do not reproduce this code and claiming that you made it
+| ----------- | ----------- |
+|       |        |
+| Do not reproduce this code and claiming that you made it
 Do not ask for emoji support
 Do not sell the code
-Do not use it for bad purposes |
-If you want donate me nitro Join the support server and report bugs Fixing the bugs ( with credits ) Give credits in a way people can notice|
+Do not use it for bad purposes   | Give credits in a way people can notice
+If you want donate me nitro 
+Join the support server and report bugs
+Fixing the bugs ( with credits ) 
 
-
+| ✅ Allowed |  |
+| ----------- | ----------- |
+|       |        |
+| ive credits in a way people can notice
+If you want donate me nitro 
+Join the support server and report bugs
+Fixing the bugs ( with credits )    | 
 
 How to use my code 
 
