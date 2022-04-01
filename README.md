@@ -9,8 +9,10 @@ what to do when using my code
 🔹 Do not sell the code
 🔹 Do not use it for bad purposes```
 
-**How to run this code**
+
 ```
+How to run this code
+
 🔹 Go to your config.js and add your token
 🔹 Then click on the button that will boot up the bot
 🔹 Use the latest version of aoi.js
