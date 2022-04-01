@@ -34,6 +34,30 @@ How to use my code
 🔹 Use the latest version of aoi.js
 ```
 
+Nova will provide
+🔸 Music system
+🔸 Dj system
+🔸 Playlist system
+🔸 Moderation system
+🔸 Ticket system
+🔸 Fun system
+🔸 Economy system
+🔸 Levelling system
+🔸 Utility system
+🔸 Story system
+🔸 Slash system 
+🔸 Counting system
+🔸 Gtn system
+🔸 Custom channels system
+🔸 Birthday system
+🔸 Giveaway system
+🔸 Button roles system
+🔸 Biography systen
+🔸 Soundboard systemm
+🔸 Addbot system
+🔸 Starboard system
+🔸 Developer system
+
 🔹 Enjoy!
 
 Why do i want my credits
