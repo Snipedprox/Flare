@@ -1,4 +1,4 @@
-Nova is an advanced discord multipurpose bot
+![](https://media.discordapp.net/attachments/956657231070392322/959532741110689812/6d4863ea4d00e775d4ba3d35d2ad3211-modified.png)Nova is an advanced discord multipurpose bot
 this bot is meant to be used to inspire other developers
 what to do when using my code
 
