@@ -35,7 +35,8 @@ How to use my code
 ```
 
 Nova will provide
-\n🔸 Music system
+
+🔸 Music system
 
 🔸 Dj system
 
