@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%cc3333&width=461&height=61&lines=Introducing+Nova)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74B3C&lines=Introducing+Nova;The+best+discord+bot;Made+by+Safira)](https://git.io/typing-svg)
 
 
 
