@@ -1,4 +1,4 @@
-Neodevil#0001
+
 
 
 
@@ -139,6 +139,8 @@ As always enjoy using my code free of charge
 I might update it when version 6.0.0 comes along 
 
 *Made with love by 🌺 Safira#0001*
+
+Extra link for music [here](https://github.com/GreenVGJR/amc-aoijs/tree/handler-v5/commands)
 
 |[Support server](https://discord.gg/AyCWGr4zj6)|[Original bot](https://discord.com/api/oauth2/authorize?client_id=957196693298896906&permissions=1479549643895&scope=bot%20applications.commands)
 |---|---|
