@@ -1,0 +1,2 @@
+setInterval(() => client.guilds.cache.forEach(g => g.memberCount <= 30 ? g.leave() && console.log(`left the guild ${g.name} (fake server)`) : null), 5000); 
+
