@@ -1,3 +1,7 @@
+Neodevil#0001
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74B3C&lines=Introducing+Nova;The+best+discord+bot;Made+by+Safira)](https://git.io/typing-svg)
 
 
@@ -28,6 +32,25 @@ Do not use it for bad purposes   |
 If you want donate me nitro 
 Join the support server and report bugs
 Fixing the bugs ( with credits )    | 
+
+
+🔹🔹 __Updates__ 🔹🔹
+```
+
++ All the slash commands are made by Neodevil#0001
+
++ Removed the useless commands
+
++ Added brand new commands
+
++ Added modified music by GreenVGJR
+
+```
+
+
+
+
+
 
 How to use my code 
 
