@@ -1,0 +1,17 @@
+module.exports = {
+name: "setcooldown",
+aliases: "setecd",
+usage: "setcooldown < number > [s/m/h/d/w]",
+code: `
+$getServerVar[check] **Set the cooldown for \`work\` , \`beg\` , \`crime\` , \`slut\` to $message[1]$message[2]**
+$setServerVar[ecd;$message[1]$message[2]]
+$onlyIf[$tolowercase[$checkContains[$message[1];1;2;3;4;5;6;7;8;9;0]]==true;$getServerVar[error] **Correct usage:** \`\`\`js
+$getservervar[prefix]setcooldown < number > < s / m / h/ d / w >\`\`\`]
+$onlyIf[$tolowercase[$checkContains[$message[2];s;h;w;d;m]]==true;$getServerVar[error] **Correct usage:** \`\`\`js
+$getservervar[prefix]setcooldown < number > < s / m / h / d / w >\`\`\`]
+
+
+
+$onlyIf[$hasPerms[$guildid;$authorid;manageserver]==true;$getServerVar[error] **You are missing the \`manage server\` permission**]
+$onlyIf[$hasPerms[$guildid;$authorid;managemessages]==true;$getServerVar[error] **You are missing the \`manage messages\` permission**]
+$onlyIf[$hasPerms[$guildid;$clientid;managemessages]==true;$getServerVar[error] **I am missing the \`manage messages\` permission**]`}
