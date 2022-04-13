@@ -19,7 +19,7 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 
 Provide propor credits 
 
--link to this repo , link to my support server , my discord tag , a commands , etc 
+- link to this repo , link to my support server , my discord tag , a commands , etc 
 Do not ask me for emoji support
 
 - I do not want my server to get nuked thats the reason
@@ -33,7 +33,7 @@ Do not sell my code
 
 - This code is free and not for sale, do not attempt to sell
 
-
+``` extras ```
 
 * Extra credits *
 - 🌺 Safira#0001 ( Developer )
