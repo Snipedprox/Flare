@@ -8,8 +8,8 @@
 
 
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Nova" src="https://media.discordapp.net/attachments/956657231070392322/959532741110689812/6d4863ea4d00e775d4ba3d35d2ad3211-modified.png"> 
-Nova is an advanced discord multipurpose bot
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Zera" src="https://media.discordapp.net/attachments/951816600229666866/963699676987678750/20220222_140433.jpg?width=421&height=421"> 
+Zera is an advanced discord multipurpose bot
 this bot is meant to be used to inspire other developers
 what to do when using my code
 
@@ -63,7 +63,7 @@ How to use my code
 🔹 Use the latest version of aoi.js
 ```
 
-Nova will provide
+Zera will provide
 
 🔸 Music system
 
@@ -145,4 +145,4 @@ Extra link for music [here](https://github.com/GreenVGJR/amc-aoijs/tree/handler-
 |[Support server](https://discord.gg/AyCWGr4zj6)|[Original bot](https://discord.com/api/oauth2/authorize?client_id=957196693298896906&permissions=1479549643895&scope=bot%20applications.commands)
 |---|---|
 
-![](https://media.discordapp.net/attachments/956657231070392322/959532168537854092/Nova2.png)
+![](https://media.discordapp.net/attachments/963635146765000704/963712456046305310/Sky_3.gif?width=842&height=420)
