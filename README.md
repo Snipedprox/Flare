@@ -35,10 +35,10 @@ Do not sell my code
 
 ``` extras ```
 
-* Extra credits *
+
 - 🌺 Safira#0001 ( Developer )
-- Natasquare#8297 ( Discord.js code providor )
-- Green#2754 ( Music code providor )
+- Natasquare#8297 ( Discord.js code provider )
+- Green#2754 ( Music code provider )
 
 
 
