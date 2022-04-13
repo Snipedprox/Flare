@@ -145,4 +145,4 @@ Extra link for music [here](https://github.com/GreenVGJR/amc-aoijs/tree/handler-
 |[Support server](https://discord.gg/AyCWGr4zj6)|[Original bot](https://discord.com/api/oauth2/authorize?client_id=957196693298896906&permissions=1479549643895&scope=bot%20applications.commands)
 |---|---|
 
-![](https://media.discordapp.net/attachments/963635146765000704/963712456046305310/Sky_3.gif?width=842&height=420)
+![](https://cdn.discordapp.com/attachments/963635146765000704/963712456046305310/Sky_3.gif)
