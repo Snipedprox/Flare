@@ -45,4 +45,4 @@ Do not sell my code
 |[Support server](https://discord.gg/AyCWGr4zj6)|[Original bot](https://discord.com/api/oauth2/authorize?client_id=957196693298896906&permissions=1479549643895&scope=bot%20applications.commands)
 |---|---|
 
-![](https://cdn.discordapp.com/attachments/951816600229666866/963779111560564736/Sky_5.gif)
+![](https://media.discordapp.net/attachments/933455205230592010/964459226753810442/Heading_1.gif)
