@@ -5,7 +5,7 @@
 
 
 
-🚀 Flare changelog
+🚀 Changelog
 ```js
 
 Added more levelling commands: levelall,leveltakeall,levelrole,takelevelrole,xpall,xptakeall,xprole,takexprole
@@ -45,6 +45,12 @@ If you do not want to encounter any bugs do the following steps
 * To make the bot work edit your token in ./config.js
 ```
 
+🚀 Provide credits
+```js
+* Make a credits command and provide credits to me by using my discord tag or my github repo
+* Advertise my support server
+* By editing the footer of the help command, or from all commands saying " Made by 🌺 Safira#0001 "
+```
 
 
 ![](https://cdn.discordapp.com/attachments/933455205230592010/965300990221906010/Flare.gif)
