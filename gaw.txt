@@ -1,0 +1,21 @@
+const { MessageEmbed} = require('discord.js');
+
+class Parser {
+    constructor(def = new MessageEmbed()) {
+        this.def = def;
+    }
+    createEmbed(data) {
+        const embed = this.def || new MessageEmbed();
+        const meta = data.match(/\{\{[^}]*\}\}/g);
+        meta?.forEach(d => {
+            const key = d.slice(2, -2);
+            if (key.startsWith('embed.')) {
+                const prop = key.slice(6).split('(')[0];
+                const value = key.slice(6).replace(prop, '');
+                if ((/\(["'`].*?["'`]\)/g).test(value)) embed[prop] = value.slice(2, -2);
+            }
+        });
+        return embed;
+    }
+}
+global.parser = new Parser();
