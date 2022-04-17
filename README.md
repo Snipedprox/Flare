@@ -1,44 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74B3C&lines=Introducing+Zera;The+best+discord+bot;Made+by+Safira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F74B3C&lines=Introducing+Flare;The+best+discord+bot;Made+by+Safira)](https://git.io/typing-svg)
 
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Flare" src="https://cdn.discordapp.com/attachments/933455205230592010/965296609426559086/unknown.png"> 
 
 
-🔹 __**Avoid bot crashes**__ 🔹
 
-- For replit users, type this script `
-npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH` into your console. Then voilla you have nodejs V16 installed
+🚀 Flare changelog
+``` Added more levelling commands: levelall,leveltakeall,levelrole,takelevelrole,xpall,xptakeall,xprole,takexprole
+Added a custom prefix for custom commands ( ! )
+Added more utility commands: mdhtml,cmdcodes,stickyadd,stickydelete,stickies,remind-me,remind-channel,nameme,password,urban,http,bug,math,source
+Added removed hentai commands and replaced them with actual nsfw
+Added more moderation: addbw,removebw,bwl,modlog
+Changed the prefix to %
+Added more developer commands: exec,gprefix
+Removed some levelling commands: rewards,set-reward
+Added more economy commands: ecoblacklist,ecounblacklist,economy
+Removed some economy commands: spawns
+Added more welcoming commands: limg,wimg,twelcome,tgoodbye,wcodes
+Added new tags for welcoming / leaving commands:
+<owner> - Displays server owner username
+<owner.tag> - Displays server owner tag
+<owner.id> - Displays server owner ID
+<owner.mention> - Mentions the server owner
+<author.id> - Displays the author id
+<user.age> - Displays the user creation date
+<owner.age> - Displays the server owner creation date
+<server.age> - Displays the server creation date
+<join.time> - Displays joining time
+<leave.time> - Displays leaving time ( only works in the leave message ) ```
 
-- Go to your index.js and scroll all the way down to your `ready` event, then change the channelID to your channelID
-
-- Go to and delete this file ( optional ) `
-/commands/owner/bot leaves the server ( delete if wanted )`
-
-
-🔹 __**Rules to follow**__ 🔹
-
-Provide propor credits 
-
-- link to this repo , link to my support server , my discord tag , a commands , etc 
-Do not ask me for emoji support
-
-- I do not want my server to get nuked thats the reason
-Do not claim you made this bot
-
-- You clearly did not make this bot by fully copying it
-Do not put the bot on any advertising website without my permission
-
-- If i do give you permission, also say i provided / made the codes
-Do not sell my code
-
-- This code is free and not for sale, do not attempt to sell
-
-``` extras ```
-
-
-- 🌺 Safira#0001 ( Developer )
-- Natasquare#8297 ( Discord.js code provider )
-- Green#2754 ( Music code provider )
 
 
 
