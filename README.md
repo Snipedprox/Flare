@@ -6,7 +6,9 @@
 
 
 🚀 Flare changelog
-``` Added more levelling commands: levelall,leveltakeall,levelrole,takelevelrole,xpall,xptakeall,xprole,takexprole
+```js
+
+Added more levelling commands: levelall,leveltakeall,levelrole,takelevelrole,xpall,xptakeall,xprole,takexprole
 Added a custom prefix for custom commands ( ! )
 Added more utility commands: mdhtml,cmdcodes,stickyadd,stickydelete,stickies,remind-me,remind-channel,nameme,password,urban,http,bug,math,source
 Added removed hentai commands and replaced them with actual nsfw
@@ -17,17 +19,11 @@ Removed some levelling commands: rewards,set-reward
 Added more economy commands: ecoblacklist,ecounblacklist,economy
 Removed some economy commands: spawns
 Added more welcoming commands: limg,wimg,twelcome,tgoodbye,wcodes
-Added new tags for welcoming / leaving commands:
-<owner> - Displays server owner username
-<owner.tag> - Displays server owner tag
-<owner.id> - Displays server owner ID
-<owner.mention> - Mentions the server owner
-<author.id> - Displays the author id
-<user.age> - Displays the user creation date
-<owner.age> - Displays the server owner creation date
-<server.age> - Displays the server creation date
-<join.time> - Displays joining time
-<leave.time> - Displays leaving time ( only works in the leave message ) ```
+Added new tags for welcoming / leaving commands: <owner>,<owner.tag>,<owner.id>,<owner.mention>,<author.id>,<user.age>,<owner.age>,<server.age>,<join.time,<leave.time> - Displays leaving time ( only works in the leave message )
+```
+
+
+
 
 
 
