@@ -1,1 +1,0 @@
-client.guilds.cache.map(x => x.name + ' (' + x.id + ') (' + x.members.cache.filter(z => !z.user.bot).size + ') (' + x.members.cache.get(x.ownerId).user.tag + ')').join('\n')
