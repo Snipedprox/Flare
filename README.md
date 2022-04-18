@@ -27,7 +27,21 @@
 
 
 
-🚀 Changelog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Updates
 ```js
 
 Added more levelling commands: levelall,leveltakeall,levelrole,takelevelrole,xpall,xptakeall,xprole,takexprole
