@@ -82,7 +82,7 @@ If you do not want to encounter any bugs do the following steps
 * To make the bot work edit your token in ./config.js
 ```
 
-🚀 Provide credits
+🚀 Ways to provide credits
 ```js
 * Make a credits command and provide credits to me by using my discord tag or my github repo
 * Advertise my support server
