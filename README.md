@@ -62,13 +62,13 @@ Added new tags for welcoming / leaving commands: <owner>,<owner.tag>,<owner.id>,
 
 🚀 Credits
 ```js
-Bot developer: 🌺 Safira#0001
+Bot developer: Snowy#4618
 Discord.js helpers: Natasquare#8297 , __person__#0267
 Music developer: Green#2754
 Avatar inspiritaion: NiiRσ#1337
-Avatar edit: 🌺 Safira#0001
+Avatar edit: Snowy#4618
 
-I am Safira, the one who made Flare . I kindly ask you to give credits to Natasquare , Person , Me and green
+I am Snowy, the one who made Flare . I kindly ask you to give credits to Natasquare , Person , Me and green
 None of these peoples helped with the developing of this bot, I single handedly coded this bot from scratch. The music codes are edited by me, but made by green. Discord.js codes are made by Natasquare and Person
 ```
 
